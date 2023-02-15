@@ -1,0 +1,617 @@
+CategoryID :null	Name :null	Path :null	PromoIDs :null	Prices :null
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :null	Name :null	Path :null	PromoIDs :null	Prices :null
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :null	Name :null	Path :null	PromoIDs :null	Prices :null
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :null	Name :null	Path :null	PromoIDs :null	Prices :null
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :null	Name :null	Path :null	PromoIDs :null	Prices :null
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :null	Name :null	Path :null	PromoIDs :null	Prices :null
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :null	Name :null	Path :null	PromoIDs :null	Prices :null
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :null	Name :null	Path :null	PromoIDs :null	Prices :null
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :null	Name :null	Path :null	PromoIDs :null	Prices :null
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :null	Name :null	Path :null	PromoIDs :null	Prices :null
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6336	Name :Fish	Path :/Books/Nonfiction/Pets/Fish	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6329	Name :Home & garden	Path :/Books/Magazines/Home-garden	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6332	Name :Art & craft	Path :/Books/Magazines/Art-craft	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6334	Name :Dogs	Path :/Books/Nonfiction/Pets/Dogs	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6335	Name :Cats	Path :/Books/Nonfiction/Pets/Cats	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6327	Name :Carbon credits	Path :/Business-farming-industry/Carbon-credits	PromoIDs :1,2,3,4	Prices :0.0,2.0,10.0,15.0
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6328	Name :Badges	Path :/Antiques-collectables/Militaria/Badges	PromoIDs :1,2,3,4	Prices :0.0,0.55,3.45,3.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6330	Name :Business & technology	Path :/Books/Magazines/Business-technology	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6331	Name :Automotive & aviation	Path :/Books/Magazines/Automotive-aviation	PromoIDs :	Prices :
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
+CategoryID :6333	Name :Royalty	Path :/Books/Nonfiction/Biography/Royalty	PromoIDs :1,2,3,4	Prices :0.0,0.25,0.75,0.95
