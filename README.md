@@ -101,19 +101,24 @@ To evaluate the GetDetails api performance in terms of the responsiveness and th
  - The 90th percentile response time should be less than 500 ms
 
 **Test Results and Observations**
-1. The category id 6331, does not return the expected values.
-2. 3 test iterations of the test were conducted.
-3. The below  contains the non functional requirements related to the test execution
+
+1. 3 test iterations of the test were conducted.
+2. The below  contains the non functional requirements related to the test execution
 **Application** : https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false
+
 |**User Load**| **Duration** | **Response time SLA**** |
 |------------|-------------|---------------------------|
 |          5 						| 60 seconds |500 miliseconds
 
 ** 90th percentile
+
 **User Load** : 5
+
 **Duration**            : 60 seconds
+
 **90th percentile(pct) Response time SLA** : 500ms
-4.  Response times 
+
+3.  Response times 
 
 |Execution round|  90th pct Response time(ms)|
 |---------------------------------------------|--|
@@ -122,6 +127,12 @@ To evaluate the GetDetails api performance in terms of the responsiveness and th
 |3|51.6
 
 During the 1st and 2nd execution rounds, response times of the each first request has been reported respectively **159.3** ms and 148 ms. This has been resulted in higher 90th percentile response time value for those executions. Yet, all iterations results are within the specified response time SLA of 500ms.
+
+4. The category id 6331, does not return the expected values. Therefore, according to the text assertion there is a 10% error rate recorded.
+
+Assumptions
+1. The application server (environment on which api is hosted) performance has been considered out-of-scope
+2. The loadgenerator environment has been selected AsiaPacific(Sydney) in AWS
 
 
 
