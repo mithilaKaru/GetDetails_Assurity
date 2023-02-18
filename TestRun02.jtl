@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1676725206765,148,TMS_UC01_GET_GetCatalogueDetails,200,OK,TMS_UC01_GET_GetCatalogueDetails 1-1,text,true,,1942,173,5,5,https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false%20,147,0,117
+1676725207757,37,TMS_UC01_GET_GetCatalogueDetails,200,OK,TMS_UC01_GET_GetCatalogueDetails 1-2,text,true,,3233,173,5,5,https://api.tmsandbox.co.nz/v1/Categories/6328/Details.json?catalogue=false%20,37,0,13
+1676725208756,30,TMS_UC01_GET_GetCatalogueDetails,200,OK,TMS_UC01_GET_GetCatalogueDetails 1-3,text,true,,3229,173,5,5,https://api.tmsandbox.co.nz/v1/Categories/6329/Details.json?catalogue=false%20,30,0,9
+1676725209757,30,TMS_UC01_GET_GetCatalogueDetails,200,OK,TMS_UC01_GET_GetCatalogueDetails 1-4,text,true,,3245,173,5,5,https://api.tmsandbox.co.nz/v1/Categories/6330/Details.json?catalogue=false%20,30,0,10
+1676725210752,25,TMS_UC01_GET_GetCatalogueDetails,200,OK,TMS_UC01_GET_GetCatalogueDetails 1-5,text,false,"Test failed: text expected to contain /""CanRelist"":true/",786,173,5,5,https://api.tmsandbox.co.nz/v1/Categories/6331/Details.json?catalogue=false%20,25,0,10
+1676725234692,29,TMS_UC01_GET_GetCatalogueDetails,200,OK,TMS_UC01_GET_GetCatalogueDetails 1-1,text,true,,3225,173,5,5,https://api.tmsandbox.co.nz/v1/Categories/6332/Details.json?catalogue=false%20,29,0,9
+1676725235550,33,TMS_UC01_GET_GetCatalogueDetails,200,OK,TMS_UC01_GET_GetCatalogueDetails 1-2,text,true,,3231,173,4,4,https://api.tmsandbox.co.nz/v1/Categories/6333/Details.json?catalogue=false%20,33,0,10
+1676725236544,31,TMS_UC01_GET_GetCatalogueDetails,200,OK,TMS_UC01_GET_GetCatalogueDetails 1-3,text,true,,3220,173,3,3,https://api.tmsandbox.co.nz/v1/Categories/6334/Details.json?catalogue=false%20,31,0,11
+1676725237545,41,TMS_UC01_GET_GetCatalogueDetails,200,OK,TMS_UC01_GET_GetCatalogueDetails 1-4,text,true,,3220,173,2,2,https://api.tmsandbox.co.nz/v1/Categories/6335/Details.json?catalogue=false%20,41,0,13
+1676725238533,33,TMS_UC01_GET_GetCatalogueDetails,200,OK,TMS_UC01_GET_GetCatalogueDetails 1-5,text,true,,3220,173,1,1,https://api.tmsandbox.co.nz/v1/Categories/6336/Details.json?catalogue=false%20,33,0,10
